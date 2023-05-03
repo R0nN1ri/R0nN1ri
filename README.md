@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=R0nN1ri&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=R0nN1ri&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=R0nN1ri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+----------------------------------------
+<img src="https://raw.githubusercontent.com/R0nN1ri/R0nN1ri/main/CODING.gif" width="250" height="250" />
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
